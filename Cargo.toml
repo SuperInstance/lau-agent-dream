@@ -2,6 +2,8 @@
 name = "lau-agent-dream"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-agent-dream"
 description = "The dream cycle — what happens when an agent is idle"
 
 [dependencies]
